@@ -1,6 +1,6 @@
 """The ants module implements game logic for Ants Vs. SomeBees."""
 
-# Name:
+# Name: Aiman and Erfan
 # Email:
 
 import random
